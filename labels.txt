@@ -1,0 +1,3 @@
+0 recycle
+1 organic
+2 garbage
